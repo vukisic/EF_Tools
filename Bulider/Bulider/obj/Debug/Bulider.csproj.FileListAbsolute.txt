@@ -1,0 +1,7 @@
+C:\Users\vukis\source\repos\Bulider\Bulider\bin\Debug\Bulider.exe.config
+C:\Users\vukis\source\repos\Bulider\Bulider\bin\Debug\Bulider.exe
+C:\Users\vukis\source\repos\Bulider\Bulider\bin\Debug\Bulider.pdb
+C:\Users\vukis\source\repos\Bulider\Bulider\obj\Debug\Bulider.csprojAssemblyReference.cache
+C:\Users\vukis\source\repos\Bulider\Bulider\obj\Debug\Bulider.csproj.CoreCompileInputs.cache
+C:\Users\vukis\source\repos\Bulider\Bulider\obj\Debug\Bulider.exe
+C:\Users\vukis\source\repos\Bulider\Bulider\obj\Debug\Bulider.pdb

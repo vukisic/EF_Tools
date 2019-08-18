@@ -1,0 +1,14 @@
+C:\Users\vukis\source\repos\AutoMapper\WebApp\bin\Debug\netcoreapp2.1\WebApp.deps.json
+C:\Users\vukis\source\repos\AutoMapper\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.json
+C:\Users\vukis\source\repos\AutoMapper\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.dev.json
+C:\Users\vukis\source\repos\AutoMapper\WebApp\bin\Debug\netcoreapp2.1\WebApp.dll
+C:\Users\vukis\source\repos\AutoMapper\WebApp\obj\Debug\netcoreapp2.1\WebApp.csprojAssemblyReference.cache
+C:\Users\vukis\source\repos\AutoMapper\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\vukis\source\repos\AutoMapper\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\vukis\source\repos\AutoMapper\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\vukis\source\repos\AutoMapper\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\vukis\source\repos\AutoMapper\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfo.cs
+C:\Users\vukis\source\repos\AutoMapper\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\vukis\source\repos\AutoMapper\WebApp\bin\Debug\netcoreapp2.1\WebApp.pdb
+C:\Users\vukis\source\repos\AutoMapper\WebApp\obj\Debug\netcoreapp2.1\WebApp.dll
+C:\Users\vukis\source\repos\AutoMapper\WebApp\obj\Debug\netcoreapp2.1\WebApp.pdb

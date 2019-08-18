@@ -1,0 +1,10 @@
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\bin\Debug\AutoMapper.exe.config
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\bin\Debug\AutoMapper.exe
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\bin\Debug\AutoMapper.pdb
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\bin\Debug\AutoMapper.dll
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\bin\Debug\AutoMapper.xml
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csprojAssemblyReference.cache
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csproj.CopyComplete
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\obj\Debug\AutoMapper.exe
+C:\Users\vukis\source\repos\AutoMapper\AutoMapper\obj\Debug\AutoMapper.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper", "AutoMapper\AutoMapper.csproj", "{5F2685D8-50A3-42A9-8ACE-40882C88914C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{7C1E7DCD-1097-4C0C-AB6C-AEB37FA9A0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2685D8-50A3-42A9-8ACE-40882C88914C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2685D8-50A3-42A9-8ACE-40882C88914C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2685D8-50A3-42A9-8ACE-40882C88914C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2685D8-50A3-42A9-8ACE-40882C88914C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1E7DCD-1097-4C0C-AB6C-AEB37FA9A0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1E7DCD-1097-4C0C-AB6C-AEB37FA9A0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1E7DCD-1097-4C0C-AB6C-AEB37FA9A0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1E7DCD-1097-4C0C-AB6C-AEB37FA9A0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1A609D-5108-4E8F-9ADB-BE9D822BA86E}
+	EndGlobalSection
+EndGlobal
